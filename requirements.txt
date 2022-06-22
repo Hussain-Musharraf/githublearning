@@ -4,3 +4,6 @@ colours
 typing 
 Dark mode
 video calls
+Payment options
+Send Money
+Receive money
